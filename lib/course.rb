@@ -15,7 +15,5 @@ class Course
     @@all.clear
   end
   
-  def title
-  end
 end
 
